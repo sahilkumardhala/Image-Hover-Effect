@@ -1,8 +1,7 @@
 # Image-Hover-Effect
-This project showcases a minimalist image hover effect achieved through HTML and CSS. The webpage features three clips that dynamically transform on hover, providing a visually engaging experience.
-# Image Hover Effect
+# [📌Live Views](https://sahilkumardhala.github.io/Image-Hover-Effect/)
 
-This project demonstrates an image hover effect.
+This project showcases a minimalist image hover effect achieved through HTML and CSS. The webpage features three clips that dynamically transform on hover, providing a visually engaging experience.
 
 ## Table of Contents
 
@@ -10,6 +9,7 @@ This project demonstrates an image hover effect.
 - [Usage](#usage)
 - [Screenshot](#screenshot)
 - [Author](#author)
+- [MIT License](LICENSE).
 
 ## Description
 
@@ -21,9 +21,13 @@ To use this project, simply open the `index.html` file in a web browser.
 
 ## Screenshot
 
-![Screenshot](screenshot.png)
+![Screenshot](https://github.com/sahilkumardhala/Image-Hover-Effect/blob/main/Screenshot.jpg)
 
 ## Author
 
 - **Sahil Kumar Dhala**
   - GitHub: [Explore Me](https://github.com/sahilkumardhala)
+    
+## License
+
+This project is licensed under the [MIT License](LICENSE).
